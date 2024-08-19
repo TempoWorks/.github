@@ -1,6 +1,6 @@
 <div align="center">
 
-  # txtdot - making the internet readable again
+  # Making the internet readable again
 
   Projects
 
