@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Making the internet readable again
+  # Making the internet reasonable again
 
   Projects
 
